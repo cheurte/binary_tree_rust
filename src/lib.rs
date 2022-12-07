@@ -74,7 +74,7 @@ impl Node {
         }
         tree_print.join("")
     }
-    
+
 }
 
 impl fmt::Display for Node{
